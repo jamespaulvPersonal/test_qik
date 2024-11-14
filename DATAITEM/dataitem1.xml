@@ -1,0 +1,9 @@
+<LocalDescRef version="1.1">
+  <name>dataitem1</name>
+  <type>3</type>
+  <appObjectDesc class="DATAITEM">
+    <maxLength>-1</maxLength>
+    <created class="com.poet.rt.db.tracked.TrackedDate">2022-12-15 05:50:04.0 GMT</created>
+    <lastSaved class="com.poet.rt.db.tracked.TrackedDate">2022-12-15 05:50:10.0 GMT</lastSaved>
+  </appObjectDesc>
+</LocalDescRef>
